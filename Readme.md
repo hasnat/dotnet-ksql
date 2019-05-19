@@ -48,3 +48,10 @@ Keeping docker status on screen
 ```
 ./dev-scripts/docker-stats.sh
 ```
+
+### Services diagram
+![services diagram](https://github.com/hasnat/dotnet-ksql/raw/master/README.png)
+
+
+### Docker compose diagram
+![docker-compose](https://github.com/hasnat/dotnet-ksql/raw/master/docker-compose.png)
