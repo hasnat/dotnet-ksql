@@ -1,0 +1,9 @@
+SET 'auto.offset.reset'='earliest';
+
+
+
+
+SHOW TOPICS;
+SHOW STREAMS;
+SHOW TABLES;
+
